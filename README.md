@@ -1,6 +1,6 @@
 ## Diagram 1
 ![Diagram 1]
-(assets/lab3_1.png)
+(https://github.com/cem-gurel/csi2532_playground/blob/lab03/assets/lab3_1.png?raw=true)
 
 
 
